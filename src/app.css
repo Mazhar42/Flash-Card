@@ -1,0 +1,8 @@
+.flexStyle {
+  display: flex;
+  flex-direction: row;
+}
+
+.flexStyle h2 {
+  padding-left: 5 px;
+}
